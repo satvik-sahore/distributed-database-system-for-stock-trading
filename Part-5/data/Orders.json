@@ -1,0 +1,52 @@
+[
+  {
+    "AccountID": "<account_id_1>",
+    "StockSymbol": "AAPL",
+    "OrderType": "Buy",
+    "Quantity": 10,
+    "OrderPrice": 150.0,
+    "Amount": 1500.0,
+    "OrderStatus": "Completed",
+    "OrderDate": "2023-01-03T00:00:00"
+  },
+  {
+    "AccountID": "<account_id_2>",
+    "StockSymbol": "MSFT",
+    "OrderType": "Sell",
+    "Quantity": 5,
+    "OrderPrice": 200.0,
+    "Amount": 1000.0,
+    "OrderStatus": "Pending",
+    "OrderDate": "2023-01-04T00:00:00"
+  },
+  {
+    "AccountID": "<account_id_3>",
+    "StockSymbol": "GOOG",
+    "OrderType": "Buy",
+    "Quantity": 8,
+    "OrderPrice": 180.0,
+    "Amount": 1440.0,
+    "OrderStatus": "Completed",
+    "OrderDate": "2023-01-05T00:00:00"
+  },
+  {
+    "AccountID": "<account_id_4>",
+    "StockSymbol": "AMZN",
+    "OrderType": "Buy",
+    "Quantity": 4,
+    "OrderPrice": 300.0,
+    "Amount": 1200.0,
+    "OrderStatus": "Cancelled",
+    "OrderDate": "2023-01-06T00:00:00"
+  },
+  {
+    "AccountID": "<account_id_5>",
+    "StockSymbol": "TSLA",
+    "OrderType": "Sell",
+    "Quantity": 7,
+    "OrderPrice": 250.0,
+    "Amount": 1750.0,
+    "OrderStatus": "Completed",
+    "OrderDate": "2023-01-07T00:00:00"
+  }
+]

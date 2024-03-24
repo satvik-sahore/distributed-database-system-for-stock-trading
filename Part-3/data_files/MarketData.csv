@@ -1,0 +1,5 @@
+StockSymbol, StockName, CurrentPrice, OpeningPrice,PrevClosingPrice, High,Low, Volume, lastUpdated
+AAPL,Apple,46.8,68.02,68.17,200,50,20000000,2023-11-17 15:00:00
+GOOGL,Google,172.4,238.98,243.33,350,250,20000000,2023-11-17 15:00:00
+MSFT,Microsoft,43.43,70.12,69.35,10,150,20000000,2023-11-17 15:00:00
+TCS,Tata Consultancy Services,87.49,433.66,436.05,100,500,20000000,2023-11-17 15:00:00

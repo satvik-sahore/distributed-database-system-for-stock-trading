@@ -1,0 +1,62 @@
+[
+  {
+    "UserName": "user1",
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Email": "johndoe@example.com",
+    "Password": "password1",
+    "PhoneNumber": "1234567890",
+    "Address": "123 Main St",
+    "RegistrationDate": "2023-01-01T00:00:00",
+    "Region": "North",
+    "LastLogin": "2023-01-02T00:00:00"
+  },
+  {
+    "UserName": "user2",
+    "FirstName": "Jane",
+    "LastName": "Smith",
+    "Email": "janesmith@example.com",
+    "Password": "password2",
+    "PhoneNumber": "0987654321",
+    "Address": "456 Elm St",
+    "RegistrationDate": "2023-01-03T00:00:00",
+    "Region": "East",
+    "LastLogin": "2023-01-04T00:00:00"
+  },
+  {
+    "UserName": "user3",
+    "FirstName": "Alice",
+    "LastName": "Johnson",
+    "Email": "alicej@example.com",
+    "Password": "password3",
+    "PhoneNumber": "1122334455",
+    "Address": "789 Oak St",
+    "RegistrationDate": "2023-01-05T00:00:00",
+    "Region": "South",
+    "LastLogin": "2023-01-06T00:00:00"
+  },
+  {
+    "UserName": "user4",
+    "FirstName": "Bob",
+    "LastName": "Brown",
+    "Email": "bobbrown@example.com",
+    "Password": "password4",
+    "PhoneNumber": "5566778899",
+    "Address": "321 Pine St",
+    "RegistrationDate": "2023-01-07T00:00:00",
+    "Region": "West",
+    "LastLogin": "2023-01-08T00:00:00"
+  },
+  {
+    "UserName": "user5",
+    "FirstName": "Carol",
+    "LastName": "Davis",
+    "Email": "carold@example.com",
+    "Password": "password5",
+    "PhoneNumber": "2233445566",
+    "Address": "654 Maple St",
+    "RegistrationDate": "2023-01-09T00:00:00",
+    "Region": "Central",
+    "LastLogin": "2023-01-10T00:00:00"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "StockSymbol": "AAPL",
+    "Price": 150.0,
+    "RecordedDateTime": "2023-01-05T00:00:00"
+  },
+  {
+    "StockSymbol": "MSFT",
+    "Price": 200.0,
+    "RecordedDateTime": "2023-01-06T00:00:00"
+  },
+  {
+    "StockSymbol": "GOOG",
+    "Price": 2500.0,
+    "RecordedDateTime": "2023-01-07T00:00:00"
+  },
+  {
+    "StockSymbol": "AMZN",
+    "Price": 3100.0,
+    "RecordedDateTime": "2023-01-08T00:00:00"
+  },
+  {
+    "StockSymbol": "TSLA",
+    "Price": 800.0,
+    "RecordedDateTime": "2023-01-09T00:00:00"
+  }
+]

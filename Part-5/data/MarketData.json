@@ -1,0 +1,57 @@
+[
+  {
+    "StockSymbol": "AAPL",
+    "StockName": "Apple Inc.",
+    "CurrentPrice": 150.0,
+    "OpeningPrice": 145.0,
+    "PrevClosingPrice": 147.0,
+    "High": 152.0,
+    "Low": 144.0,
+    "Volume": 1000000,
+    "LastUpdated": "2023-01-04T00:00:00"
+  },
+  {
+    "StockSymbol": "MSFT",
+    "StockName": "Microsoft Corp.",
+    "CurrentPrice": 200.0,
+    "OpeningPrice": 198.0,
+    "PrevClosingPrice": 199.0,
+    "High": 202.0,
+    "Low": 197.0,
+    "Volume": 800000,
+    "LastUpdated": "2023-01-05T00:00:00"
+  },
+  {
+    "StockSymbol": "GOOG",
+    "StockName": "Alphabet Inc.",
+    "CurrentPrice": 2500.0,
+    "OpeningPrice": 2480.0,
+    "PrevClosingPrice": 2475.0,
+    "High": 2510.0,
+    "Low": 2460.0,
+    "Volume": 600000,
+    "LastUpdated": "2023-01-06T00:00:00"
+  },
+  {
+    "StockSymbol": "AMZN",
+    "StockName": "Amazon.com Inc.",
+    "CurrentPrice": 3100.0,
+    "OpeningPrice": 3080.0,
+    "PrevClosingPrice": 3075.0,
+    "High": 3120.0,
+    "Low": 3050.0,
+    "Volume": 500000,
+    "LastUpdated": "2023-01-07T00:00:00"
+  },
+  {
+    "StockSymbol": "TSLA",
+    "StockName": "Tesla Inc.",
+    "CurrentPrice": 800.0,
+    "OpeningPrice": 790.0,
+    "PrevClosingPrice": 785.0,
+    "High": 810.0,
+    "Low": 780.0,
+    "Volume": 700000,
+    "LastUpdated": "2023-01-08T00:00:00"
+  }
+]

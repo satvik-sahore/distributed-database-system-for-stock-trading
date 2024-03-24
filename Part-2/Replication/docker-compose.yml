@@ -1,0 +1,36 @@
+version: '3'
+
+services:
+  db1:
+    image: mysql:latest
+    container_name: mysql-master-1
+    restart: unless-stopped
+    tty: true
+    ports:
+      - "3307:3306"
+    expose:
+      - '3306'
+    environment:
+      MYSQL_DATABASE: pvs_stock_trading
+      MYSQL_USER: master
+      MYSQL_PASSWORD: master
+      MYSQL_ROOT_PASSWORD: root
+      SERVICE_TAGS: dev
+      SERVICE_NAME: mysql
+
+  db2:
+    image: mysql:latest
+    container_name: mysql-master-2
+    restart: unless-stopped
+    tty: true
+    ports:
+      - "3308:3306"
+    expose:
+      - '3306'
+    environment:
+      MYSQL_DATABASE: pvs_stock_trading
+      MYSQL_USER: replica
+      MYSQL_PASSWORD: replica
+      MYSQL_ROOT_PASSWORD: root
+      SERVICE_TAGS: dev
+      SERVICE_NAME: mysql
